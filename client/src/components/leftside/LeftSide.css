@@ -1,0 +1,34 @@
+.userBox{
+width: 100%;
+}
+.imge{
+	margin-left: 10px;
+}
+.nameBox{
+	margin-left: 10px;
+}
+.notificationBox{
+	margin-left: 11px;
+}
+.profileTag{
+	margin-bottom: 3px;
+}
+.bottom{
+	position: relative;
+}
+.bottom .far {
+	transform: rotate(56deg);
+	font-weight: 400;
+  }
+  .btun{
+	position: absolute;
+    top: 20px;
+    right: 17px;
+	background: transparent;
+    border: none;
+  }
+  .createChat{
+	position: absolute;
+	top:0;
+	background-color: aqua;
+  }
